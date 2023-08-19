@@ -20499,7 +20499,8 @@ if(n==null)n=b;(o?null:p.gqj(p))==null
 o=$.bc()
 o.f=a
 o.a=b
-o.e=o.r=!0
+o.r=!1
+o.e=!0
 o.c=n.a
 o.d=n.b
 o.toString
@@ -20524,8 +20525,8 @@ azz(a,b){return!a.a.k(0,b.a)},
 ye:function ye(a,b,c,d,e,f){var _=this
 _.c=a
 _.d=b
-_.e=c
-_.f=d
+_.f=c
+_.r=d
 _.y=e
 _.a=f},
 BA:function BA(a){var _=this
@@ -67109,7 +67110,7 @@ else{s=this.d
 s===$&&A.b()}return s},
 gPS(){var s,r
 this.r===$&&A.b()
-s=Math.max(this.gPZ(),700)
+s=this.gPZ()
 r=this.a
 r===$&&A.b()
 return s/r.b},
@@ -67133,13 +67134,14 @@ an(){return new A.BA(B.k)},
 tH(a,b){return this.c.$2(a,b)},
 aaJ(a,b){return A.aGw().$2(a,b)}}
 A.BA.prototype={
-gNe(){var s,r,q=this.c
-q.toString
-s=A.d2(q,null)
-if(s!=null){this.a.toString
-return s}q=this.c
-q.toString
-r=A.a9m(q)
+gNe(){var s,r,q=this,p=q.c
+p.toString
+s=A.d2(p,null)
+if(s!=null){q.a.toString
+q.e=!0
+return s}p=q.c
+p.toString
+r=A.a9m(p)
 r.toString
 return A.aiX(r,null)},
 a3w(a){a.hE()
@@ -67166,7 +67168,7 @@ N(a){var s,r,q,p,o,n=this,m=null
 if(n.d.a.k(0,B.I))return B.eJ
 if(!n.e){s=n.d
 s.toString
-return A.wL(new A.hE(new A.adO(n),m),s,m)}A.a67(a,n.a.y,!0,!1,!0)
+return A.wL(new A.hE(new A.adO(n),m),s,m)}A.a67(a,n.a.y,!0,!1,!1)
 r=A.d2(a,m)
 q=r==null?m:r.a
 if(q==null)q=n.a.y
@@ -67176,7 +67178,7 @@ o=n.a
 return A.cn(m,A.YM(B.R,A.cn(m,o.tH(a,o.d),B.l,m,m,m,p,m,m,s),B.l,B.iR),B.l,m,m,m,p,m,m,s)}}
 A.adO.prototype={
 $1(a){var s,r,q,p,o,n,m=null,l=this.a
-A.a67(a,l.a.y,!0,!1,!0)
+A.a67(a,l.a.y,!0,!1,!1)
 s=A.d2(a,m)
 r=s==null?m:s.a
 if(r==null)r=l.a.y
@@ -69608,8 +69610,7 @@ n.r===$&&A.b()
 k=n.f
 if(k!=null)k=A.bz(k,d,q).w.a.b
 else{k=n.d
-k===$&&A.b()}k=Math.max(k,700)
-n=Math.min(m/l.a,k/n.a.b)
+k===$&&A.b()}n=Math.min(m/l.a,k/n.a.b)
 n=24*n/4
 m=A.b7(a0)
 l=A.b7(a0).p3.w
@@ -69630,8 +69631,7 @@ k.r===$&&A.b()
 h=k.f
 if(h!=null)h=A.bz(h,d,q).w.a.b
 else{h=k.d
-h===$&&A.b()}h=Math.max(h,700)
-k=Math.min(j/i.a,h/k.a.b)
+h===$&&A.b()}k=Math.min(j/i.a,h/k.a.b)
 j=A.ot(o.b+" - "+o.c,A.b7(a0).p3.x,d)
 i=$.bc()
 i.e===$&&A.b()
@@ -69644,8 +69644,7 @@ i.r===$&&A.b()
 f=i.f
 if(f!=null)f=A.bz(f,d,q).w.a.b
 else{f=i.d
-f===$&&A.b()}f=Math.max(f,700)
-i=Math.min(h/g.a,f/i.a.b)
+f===$&&A.b()}i=Math.min(h/g.a,f/i.a.b)
 i=A.a([new A.y3(m,B.b4,d,!0,B.cr,1,d,d,d,B.b5,d,d,d,l,d),new A.me(d,24*k/8,d,d),j,new A.me(d,24*i/4,d,d)],b)
 for(m=o.e,e=0;e<1;++e)i.push(A.ot("\u2022  "+m[e],A.b7(a0).p3.z,d))
 a.push(A.cn(d,A.ly(i,B.c1,B.b_,B.aw),B.l,d,d,d,d,d,new A.bl(0,n,0,n),d))}return A.ly(a,B.c1,B.b_,B.aw)}}
