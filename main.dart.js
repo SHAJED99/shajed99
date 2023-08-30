@@ -73598,7 +73598,7 @@ $1(a){A.awK(new A.a7S(this.a),this.b,t.z)},
 $S:435}
 A.a7S.prototype={
 $1(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c=24*$.aR().gaT()/2,b=$.aR().gaT(),a=$.aR().gaT(),a0=t.w,a1=this.a,a2=a1.c
-a=A.aqC(-(24*b)/2,Math.min(A.aZ(a3,d,a0).w.a.b,A.aZ(a3,d,a0).w.a.a)/1.2,a2.w,a2.r,new A.a7Q(a1,a3),24*a/16,t.d8)
+a=A.aqC(-(24*b)/2,Math.min(A.aZ(a3,d,a0).w.a.b,A.aZ(a3,d,a0).w.a.a)/2,a2.w,a2.r,new A.a7Q(a1,a3),24*a/16,t.d8)
 a1=24*$.aR().gaT()
 b=24*$.aR().gaT()/2
 s=t.p
