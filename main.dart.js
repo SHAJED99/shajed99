@@ -76099,7 +76099,7 @@ if(f!=null)f=A.b1(f,d,q).w.a.b
 else{f=i.d
 f===$&&A.c()}i=Math.min(h/g.a,f/i.a.b)
 i=A.b([new A.zZ(m,B.aF,d,!0,B.b2,1,d,d,d,B.au,d,d,d,l,d),new A.j0(d,24*k/8,d,d),j,new A.j0(d,24*i/4,d,d)],b)
-for(m=o.e,e=0;e<1;++e)i.push(A.cq("\u2022  "+m[e],d,d,$.nU(),d))
+for(m=o.e,e=0;e<5;++e)i.push(A.cq("\u2022  "+m[e],d,d,$.nU(),d))
 a.push(A.br(d,A.dG(i,B.ao,B.S,B.V),B.k,d,d,d,d,d,d,new A.aH(0,n,0,n),d))}return A.dG(a,B.ao,B.S,B.V)}}
 A.xI.prototype={
 af(){var s,r=$.bT(),q=A.fl(A.b([],t.zX)),p=A.avh(null,t.i),o=A.auW(0),n=A.b([B.SI],t.qk)
@@ -87173,7 +87173,7 @@ s($,"aZ9","XV",()=>A.anx().$3$color$fontSize$fontWeight(B.bK,15,B.ae))
 s($,"aZa","h0",()=>A.anx().$3$color$fontSize$fontWeight(B.bK,12,B.ae))
 s($,"aWb","nU",()=>A.anx().$3$color$fontSize$fontWeight(B.bK,14,B.r))
 r($,"aY7","aDL",()=>A.b([A.hW("lib/assets/images/icons/linkedin.png","LinkedIn","https://www.linkedin.com/in/shajed99"),A.hW("lib/assets/images/icons/github.png","Github","https://github.com/SHAJED99/"),A.hW("lib/assets/images/icons/fiverr.png","Fiverr","https://www.fiverr.com/shajed99/")],A.a0("t<ya>")))
-r($,"aXt","arW",()=>A.b([new A.Jn("Genuine Technology and Research Ltd (GTR)","Flutter Android developer","Jr. Developer",A.ks(null,A.d6("MMMM yyyy").da(0,"May 2023")),A.b(["Create a Flutter app named  Efficient App, available on Google Play Store"],t.s))],A.a0("t<Jn>")))
+r($,"aXt","arW",()=>A.b([new A.Jn("Genuine Technology and Research Ltd (GTR)","Flutter Android developer","Programmer",A.ks(null,A.d6("MMMM yyyy").da(0,"May 2023")),A.b(["Accelerated through three promotions at Genuine Technology and Research Ltd (GTR) from intern to Programmer.","Launched four apps on Google Play Store, demonstrating entrepreneurial skills.","Consistent high-quality work led to promotions and successful app releases.","Recognized for rapid skill development and dedication to excellence.","Growth from intern to Programmer at GTR; launched four successful apps on Google Play Store."],t.s))],A.a0("t<Jn>")))
 r($,"aYn","as0",()=>{var q,p,o,n,m,l,k,j,i,h,g,f="Google Play Store",e=null,d="MMMM yyyy",c="May 2023",b="August 2023",a="October 2023",a0="Github",a1="Regularly updated the app to ensure compatibility with the latest Flutter and GetX versions.",a2=A.a0("t<ya>"),a3=A.b([A.hW(e,f,"https://play.google.com/store/apps/details?id=com.androidteam.gtr.easy_hr")],a2),a4=t.s,a5=A.b(["Dart","Flutter","API","GetX"],a4),a6=A.d6(d).da(0,c)
 a6=A.ks(A.d6(d).da(0,b),a6)
 q=t.dI
