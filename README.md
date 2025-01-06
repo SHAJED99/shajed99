@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!<br>My name is Shajedur Rahman Panna and I'm a Flutter Developer. I am from Bangladesh</h2>
 
 <div align="center">
-  <h6><a href="https://www.shajed99.github.io/shajed99/" target="_blank">See my Portfolio</h6>
+  <h6><a href="https://shajed99.github.io/shajed99/" target="_blank">See my Portfolio</h6>
 </div>
 
 ###
