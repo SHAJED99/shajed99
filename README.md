@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋!<br>My name is Shajedur Rahman Panna and I'm a Flutter Developer. I am from Bangladesh</h2>
 
+<div align="center">
+  <h6><a href="shajed99.github.io/shajed99/" target="_blank">See my Portfolio</h6>
+</div>
+
 ###
 
 <div align="center">
@@ -56,7 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shajed99/shajed99/output/snake.svg" alt="Snake animation" />
 
 ###
 
