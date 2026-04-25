@@ -1,70 +1,74 @@
-<h2 align="left">Hi 👋!<br>My name is Shajedur Rahman Panna and I'm a Flutter Developer. I am from Bangladesh</h2>
+<div align="center">
+
+# 👋 Hi, I'm Shajedur Rahman Panna
+
+### Senior Flutter Developer | Mobile App Architect | EKYC & Fintech Solutions
+
+📍 Dhaka, Bangladesh | 🌍 Open to remote opportunities
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shajedur-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shajedurrahmanpanna)
+[![GitHub](https://img.shields.io/badge/GitHub-shajed99-black?style=flat-square&logo=github)](https://github.com/SHAJED99)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Level_2_Seller-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/shajed99)
+[![Email](https://img.shields.io/badge/Email-shajedurrahmanpanna-red?style=flat-square&logo=gmail)](mailto:shajedurrahmanpanna.panna@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Core:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+
+**State Management:** ![GetX](https://img.shields.io/badge/GetX-red?style=flat-square) ![BLoC](https://img.shields.io/badge/BLoC-blue?style=flat-square)
+
+**Native:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-61DAFB?style=flat-square)
+
+**Tools:** Git, REST API, Firebase, SQLite, SharedPreferences
+
+---
+
+## 💼 Professional Summary
+
+5+ years building **enterprise-grade mobile applications** for fintech, banking, and e-commerce sectors. I've delivered **EKYC packages, merchant onboarding systems, and cross-platform apps** serving millions of users across Bangladesh.
+
+**Key highlights:**
+- 🏦 Built EKYC packages for **City Bank, Prime Bank, and bKash** — 2M+ users
+- 📦 Author of open-source Flutter widget packages on pub.dev
+- 🏆 Level 2 Seller on Fiverr with consistent 5-star reviews
+
+---
+
+## 📂 Featured Repositories
+
+| Repository | ⭐ | Description |
+|------------|---|-------------|
+| [on_text_input_widget](https://github.com/SHAJED99/on_text_input_widget) | 1 | Feature-rich text input with search, validation, Material 3 |
+| [time_range_selector_widget](https://github.com/SHAJED99/time_range_selector_widget) | 4 | Time range picker with Material 3 support |
+| [on_process_button_widget](https://github.com/SHAJED99/on_process_button_widget) | 1 | Button with loading states, hover effects, status handling |
+| [getx_mvc](https://github.com/SHAJED99/getx_mvc) | — | Production-ready GetX MVC template |
+| [fluttergems](https://github.com/SHAJED99/fluttergems) | — | Community contribution for Flutter Gems |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <h6><a href="https://shajed99.github.io/shajed99/" target="_blank">See my Portfolio</h6>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shajed99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shajed99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
+
 </div>
 
-###
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shajed99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shajed99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aurora__website-blue?style=flat-square)](https://shajed99.github.io/shajed99/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shajedur-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shajedurrahmanpanna)
+[![GitHub](https://img.shields.io/badge/GitHub-shajed99-black?style=flat-square&logo=github)](https://github.com/SHAJED99)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/shajed99)
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shajed99&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shajed99&theme=dracula&radius=0&hide_title=false" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/shajed99/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shajed99/count.svg?"  />
-</div>
-
-###
