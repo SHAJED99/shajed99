@@ -46,7 +46,6 @@
 | [time_range_selector_widget](https://github.com/SHAJED99/time_range_selector_widget) | 4 | Time range picker with Material 3 support |
 | [on_process_button_widget](https://github.com/SHAJED99/on_process_button_widget) | 1 | Button with loading states, hover effects, status handling |
 | [getx_mvc](https://github.com/SHAJED99/getx_mvc) | — | Production-ready GetX MVC template |
-| [fluttergems](https://github.com/SHAJED99/fluttergems) | — | Community contribution for Flutter Gems |
 
 ---
 
