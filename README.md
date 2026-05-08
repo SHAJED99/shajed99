@@ -1,8 +1,13 @@
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+</div>
+
+<div align="center">
 
 # 👋 Hi, I'm Shajedur Rahman Panna
 
 ### Flutter Developer II | Mobile App Architect | EKYC & Fintech Solutions
+
 ### BLoC · GetX · Clean Architecture · MVC | Dio + JWT Auth | 5+ Years
 
 📍 Dhaka, Bangladesh | 🌍 Open to remote opportunities
@@ -37,6 +42,7 @@
 5+ years building **enterprise-grade mobile applications** for fintech, banking, and e-commerce sectors. I've delivered **EKYC packages, merchant onboarding systems, and full auth flows** serving millions of users across Bangladesh.
 
 **Key highlights:**
+
 - 🏦 Built EKYC packages for **City Bank, Prime Bank, and bKash** — 2M+ users
 - 🔐 Implemented **full JWT auth flows** with Dio — access/refresh token, secure storage
 - 🏗️ Architect with **Clean Architecture + MVC** patterns — scalable, testable codebases
@@ -47,23 +53,20 @@
 
 ## 📂 Featured Repositories
 
-| Repository | ⭐ | Description |
-|------------|---|-------------|
-| [on_text_input_widget](https://github.com/SHAJED99/on_text_input_widget) | 1 | Feature-rich text input with search, validation, Material 3 |
-| [time_range_selector_widget](https://github.com/SHAJED99/time_range_selector_widget) | 4 | Time range picker with Material 3 support |
-| [on_process_button_widget](https://github.com/SHAJED99/on_process_button_widget) | 1 | Button with loading states, hover effects, status handling |
-| [getx_mvc](https://github.com/SHAJED99/getx_mvc) | — | Production-ready GetX MVC template |
+| Repository                                                                           | ⭐  | Description                                                 |
+| ------------------------------------------------------------------------------------ | --- | ----------------------------------------------------------- |
+| [on_text_input_widget](https://github.com/SHAJED99/on_text_input_widget)             | 1   | Feature-rich text input with search, validation, Material 3 |
+| [time_range_selector_widget](https://github.com/SHAJED99/time_range_selector_widget) | 4   | Time range picker with Material 3 support                   |
+| [on_process_button_widget](https://github.com/SHAJED99/on_process_button_widget)     | 1   | Button with loading states, hover effects, status handling  |
+| [getx_mvc](https://github.com/SHAJED99/getx_mvc)                                     | —   | Production-ready GetX MVC template                          |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shajed99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shajed99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=shajed99&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shajed99&theme=dracula&radius=0&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ---
@@ -72,9 +75,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Profile-blue?style=flat-square)](https://github.com/SHAJED99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Profile-blue?style=flat-square)](https://shajed99.github.io/shajed99/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shajed99-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shajed99)
 [![GitHub](https://img.shields.io/badge/GitHub-shajed99-black?style=flat-square&logo=github)](https://github.com/SHAJED99)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/shajed99)
 
 </div>
+
+<br />
