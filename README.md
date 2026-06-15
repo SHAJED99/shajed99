@@ -12,15 +12,19 @@
 
 📍 Dhaka, Bangladesh | 🌍 Open to remote opportunities
 
+</div>
+
 ---
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shajed99-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shajed99)
-[![GitHub](https://img.shields.io/badge/GitHub-shajed99-black?style=flat-square&logo=github)](https://github.com/SHAJED99)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Level_2_Seller-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/shajed99)
-[![Email](https://img.shields.io/badge/Email-shajedurrahmanpanna-red?style=flat-square&logo=gmail)](mailto:shajedurrahmanpanna.panna@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BC-blue?style=flat-square)](https://shajed99.github.io/shajed99/)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shajed99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/SHAJED99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.fiverr.com/shajed99"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+<a href="mailto:shajedurrahmanpanna.panna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://shajed99.github.io/shajed99/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 
 </div>
 
@@ -80,13 +84,11 @@
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 **Portfolio** | [shajed99.github.io](https://shajed99.github.io/shajed99/) |
-| 💬 **LinkedIn** | [linkedin.com/in/shajed99](https://www.linkedin.com/in/shajed99) |
-| 💻 **GitHub** | [github.com/SHAJED99](https://github.com/SHAJED99) |
-| ⭐ **Fiverr** | [fiverr.com/shajed99](https://www.fiverr.com/shajed99) |
-| ✉️ **Email** | [shajedurrahmanpanna.panna@gmail.com](mailto:shajedurrahmanpanna.panna@gmail.com) |
+<a href="https://www.linkedin.com/in/shajed99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/SHAJED99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.fiverr.com/shajed99"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+<a href="https://shajed99.github.io/shajed99/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:shajedurrahmanpanna.panna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
