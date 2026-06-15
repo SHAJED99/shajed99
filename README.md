@@ -12,10 +12,15 @@
 
 📍 Dhaka, Bangladesh | 🌍 Open to remote opportunities
 
+---
+
+### 🌐 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shajed99-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shajed99)
 [![GitHub](https://img.shields.io/badge/GitHub-shajed99-black?style=flat-square&logo=github)](https://github.com/SHAJED99)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Level_2_Seller-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/shajed99)
 [![Email](https://img.shields.io/badge/Email-shajedurrahmanpanna-red?style=flat-square&logo=gmail)](mailto:shajedurrahmanpanna.panna@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BC-blue?style=flat-square)](https://shajed99.github.io/shajed99/)
 
 </div>
 
@@ -75,10 +80,13 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Profile-blue?style=flat-square)](https://shajed99.github.io/shajed99/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shajed99-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shajed99)
-[![GitHub](https://img.shields.io/badge/GitHub-shajed99-black?style=flat-square&logo=github)](https://github.com/SHAJED99)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/shajed99)
+| Platform | Link |
+|----------|------|
+| 💼 **Portfolio** | [shajed99.github.io](https://shajed99.github.io/shajed99/) |
+| 💬 **LinkedIn** | [linkedin.com/in/shajed99](https://www.linkedin.com/in/shajed99) |
+| 💻 **GitHub** | [github.com/SHAJED99](https://github.com/SHAJED99) |
+| ⭐ **Fiverr** | [fiverr.com/shajed99](https://www.fiverr.com/shajed99) |
+| ✉️ **Email** | [shajedurrahmanpanna.panna@gmail.com](mailto:shajedurrahmanpanna.panna@gmail.com) |
 
 </div>
 
