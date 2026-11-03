@@ -6,11 +6,11 @@
 
 # 👋 Hi, I'm Shajedur Rahman Panna
 
-### Flutter Developer II | Mobile App Architect | EKYC & Fintech Solutions
+### Flutter Developer | Fintech & eKYC Solutions
 
-### BLoC · GetX · Clean Architecture · MVC | Dio + JWT Auth | 5+ Years
+### BLoC · GetX · Clean Architecture · MVC | Dio + JWT Auth | 3+ Years
 
-📍 Dhaka, Bangladesh | 🌍 Open to remote opportunities
+📍 Dhaka, Bangladesh | 🌍 Open to relocation (Germany & EU) and remote roles
 
 </div>
 
@@ -48,11 +48,11 @@
 
 ## 💼 Professional Summary
 
-5+ years building **enterprise-grade mobile applications** for fintech, banking, and e-commerce sectors. I've delivered **EKYC packages, merchant onboarding systems, and full auth flows** serving millions of users across Bangladesh.
+3+ years building **mobile apps and SDKs** for banks and fintechs. I've delivered **eKYC packages, merchant onboarding systems and full auth flows** for City Bank, Prime Bank, Dhaka Bank and bKash.
 
 **Key highlights:**
 
-- 🏦 Built EKYC packages for **City Bank, Prime Bank, and bKash** — 2M+ users
+- 🏦 Built eKYC packages for **City Bank, Prime Bank, Dhaka Bank and bKash**; my bKash package is used in the bKash Merchant app (**1M+ downloads**)
 - 🔐 Implemented **full JWT auth flows** with Dio — access/refresh token, secure storage
 - 🏗️ Architect with **Clean Architecture + MVC** patterns — scalable, testable codebases
 - 📦 Author of open-source Flutter widget packages on pub.dev
